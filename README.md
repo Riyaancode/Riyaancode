@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Riyan</h1>
+<h1 align="center">Hi 👋, I'm Riyan</h1>
 <h3 align="center">Developer. Designer. </h3>
 
 <!-- 🔭 I’m currently working at [EdTech Pakistan Pvt Ltd](https://edtech.com.pk/) -->
