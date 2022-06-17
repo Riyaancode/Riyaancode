@@ -3,7 +3,7 @@
 <h3 align="center">Developer. Designer. </h3>
 
 <!-- 🔭 I’m currently working at [EdTech Pakistan Pvt Ltd](https://edtech.com.pk/) -->
-- 👀 I’m interested in Web & Mobile Apps Development 
+- 👀 I’m interested in MERN 
 - 🌱 I’m currently learning Web Development 
 - 💼 any freelance work? do reach, [email](mailto:mohammadriyan428@gmail.com) :)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
