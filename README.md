@@ -6,7 +6,7 @@
 - 👀 I’m interested in MERN 
 - 🌱 I’m currently learning ReactJS 
 - 💼 any freelance work? do reach, [email](mailto:mohammadriyan428@gmail.com) :)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450"  />
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
