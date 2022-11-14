@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Riyan</h1>
-<h3 align="center">Developer. Designer. </h3>
+<h3 align="center">Web Developer</h3>
 
 <!-- 🔭 I’m currently working at [EdTech Pakistan Pvt Ltd](https://edtech.com.pk/) -->
 - 👀 I’m interested in MERN 
