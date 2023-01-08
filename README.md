@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaancode&label=Profile%20views&color=0e75b6&style=flat" alt="riyaancode" /> </p>
 
 <!-- 🔭 I’m currently working at [EdTech Pakistan Pvt Ltd](https://edtech.com.pk/) -->
-- 🔭 I’m currently working on [MERN Social App](https://github.com/Riyaancode/mern-socialmedia-app.git)
+- 🔭 I’m currently working on [MERN Social App](https://github.com/Riyaancode/mern-social-app.git)
 - 🌱 I’m currently learning **React Native**
 - 💼 Any freelance work? do reach, [email](mailto:mohammadriyan428@gmail.com) :)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450"  />
