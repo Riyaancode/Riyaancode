@@ -16,7 +16,7 @@
 <div><img align="left" width="376px" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaancode&" alt="riyaancode" /></div>
 
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaancode&show_icons=true&locale=en&layout=compact" alt="riyaancode" /></div>
+<div><img align="left" width="376px" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaancode&show_icons=true&locale=en&layout=compact" alt="riyaancode" /></div>
 
 
 
