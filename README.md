@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Riyan</h1>
-<h3 align="center">A Passionate MERN Stack Developer</h3>
+<h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaancode&label=Profile%20views&color=0e75b6&style=flat" alt="riyaancode" /> </p>
 
@@ -17,7 +17,4 @@
 
 
 <div><img align="left" width="376px" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaancode&show_icons=true&locale=en&layout=compact" alt="riyaancode" /></div>
-
-
-
 
