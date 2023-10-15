@@ -3,7 +3,7 @@
 <p align="center">
 As a self-taught developer, my journey has been driven by a relentless pursuit of knowledge, hands-on experience, and a strong commitment to mastering both frontend and backend technologies. I'm constantly seeking new challenges and opportunities to refine my skills and contribute to the world of software development.</p>
 <br />
-<h2 align="center">🔧 Technologies</h2>
+<h2 align="center">Technologies 🔧</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
