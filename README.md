@@ -12,7 +12,7 @@ As a self-taught developer, my journey has been driven by a relentless pursuit o
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,nextjs,bootstrap,nodejs,mongodb,php,mysql,redux,vercel,heroku,wordpress" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,firebase,expressjs,postman,vite,typescript" />
+    <img src="https://skillicons.dev/icons?i=tailwind,firebase,expressjs,postman,vite,typescript,aws" />
   </a>
 </p>
 <br />
