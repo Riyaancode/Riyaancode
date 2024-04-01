@@ -9,10 +9,10 @@ As a self-taught developer, my journey has been driven by a relentless pursuit o
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,bootstrap,nodejs,mongodb,php,mysql,redux,vercel,heroku,wordpress,postman,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,bootstrap,nodejs,mongodb,react,mysql,redux,vercel,heroku,wordpress,postman,firebase" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,tailwind,nextjs,expressjs,vite,typescript,aws,react,d3,yarn,regex" />
+    <img src="https://skillicons.dev/icons?i=netlify,tailwind,nextjs,expressjs,vite,typescript,aws,php,d3,yarn,regex" />
   </a>
 </p>
 <br />
