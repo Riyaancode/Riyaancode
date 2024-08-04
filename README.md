@@ -8,12 +8,8 @@ As a self-taught developer, my journey has been driven by a relentless pursuit o
 <h2 align="center">Technologies 🔧</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,git,bootstrap,nodejs,mongodb,react,mysql,redux,vercel,heroku,wordpress,postman,firebase" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,tailwind,nextjs,expressjs,vite,typescript,aws,php,d3,yarn,regex" />
-  </a>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=netlify,tailwind,nextjs,chatgpt,expressjs,vite,typescript,aws,php,d3,yarn,regex,langchain,chartjs,mjml" />
 </p>
 <br />
  <h2 align="center">Stats ⚡️</h2>
