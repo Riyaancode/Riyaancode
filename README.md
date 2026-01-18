@@ -10,7 +10,7 @@ As a self-taught developer, my journey has been driven by a relentless pursuit o
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,git,bootstrap,nodejs,mongodb,react,python,mysql,redux,vercel,heroku,wordpress,postman" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=netlify,tailwind,nextjs,chatgpt,expressjs,vite,typescript,aws,php,d3,yarn,regex,langchain,chartjs,mjml" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase,cursor" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase,cursor,claude,supabase,clerk,fastapi,gemini,convex" />
 </p>
 <br />
  <h2 align="center">Stats ⚡️</h2>
